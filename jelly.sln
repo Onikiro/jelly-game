@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jelly", "jelly.csproj", "{12D77F70-9239-C18F-B88E-4F2CF0A6377D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jelly.Editor.Plugins", "jelly.Editor.Plugins.csproj", "{8E7AFCEA-D6F2-E20E-6FE1-D0F72395DD65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D77F70-9239-C18F-B88E-4F2CF0A6377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D77F70-9239-C18F-B88E-4F2CF0A6377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D77F70-9239-C18F-B88E-4F2CF0A6377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D77F70-9239-C18F-B88E-4F2CF0A6377D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7AFCEA-D6F2-E20E-6FE1-D0F72395DD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7AFCEA-D6F2-E20E-6FE1-D0F72395DD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7AFCEA-D6F2-E20E-6FE1-D0F72395DD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7AFCEA-D6F2-E20E-6FE1-D0F72395DD65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
